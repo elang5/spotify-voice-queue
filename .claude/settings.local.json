@@ -29,7 +29,8 @@
       "Bash(wsl --unregister:*)",
       "Bash(wsl --import:*)",
       "Bash(wsl --set-default:*)",
-      "Bash(wsl -e bash -c:*)"
+      "Bash(wsl -e bash -c:*)",
+      "Bash(git rm:*)"
     ],
     "deny": [],
     "ask": []
