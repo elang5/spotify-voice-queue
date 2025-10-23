@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "expo-speech-recognition": "^2.1.5"
+  }
+}
